@@ -1,5 +1,5 @@
 # Global Happiness Project
-!img/image.jpg
+![title](image.jpg)
 
 ### Motivation
 <what is this project about>
