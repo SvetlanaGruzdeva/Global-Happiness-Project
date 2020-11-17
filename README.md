@@ -1,4 +1,5 @@
 # Global Happiness Project
+!(./img/image.jpg)
 
 ### Motivation
 <what is this project about>
@@ -20,11 +21,12 @@ Average Temperature by Country - https://www.kaggle.com/berkeleyearth/climate-ch
 
 
 ### Software used
-SQL database (MySQL)
+SQL database (MySQL)<br/>
 Jupyter Notebook
 
 ### Programmic language
 Python 3.8.3
 
 ### Libraries used
-pandas
+pandas<br/>
+
