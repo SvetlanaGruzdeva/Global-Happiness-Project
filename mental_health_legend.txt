@@ -1,0 +1,14 @@
+Is your employer primarily a tech company/organization?
+Do you have a family history of mental illness?
+Have you had a mental health disorder in the past?
+Do you currently have a mental health disorder?
+If yes, what condition(s) have you been diagnosed with?
+If maybe, what condition(s) do you believe you have?
+Have you been diagnosed with a mental health condition by a medical professional?
+If so, what condition(s) were you diagnosed with?
+What is your age?
+What country do you live in?
+What US state or territory do you live in?
+What country do you work in?
+What US state or territory do you work in?
+Which of the following best describes your work position?

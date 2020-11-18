@@ -15,6 +15,7 @@ Suicide Rates Overview (2015-2018) - https://data.oecd.org/healthstat/suicide-ra
 Average Temperature by Country - https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data?select=GlobalLandTemperaturesByCountry.csv<br/>
 
 ### Assumptions and estimations
+1. Medical health data sets: <reducing & renaming columns>
 
 
 
