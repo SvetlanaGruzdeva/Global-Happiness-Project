@@ -7,11 +7,15 @@ a similar correlation with happiness ratio using data for the period 2015-2018.
 
 ### Overview
 Raw data has been downloaded from various sources in csv format and then stored in SQL database.<br/>
-Cleaning and analysis has been performed by Python
+Cleaning and analysis has been performed by Python and Tableau
+
+### Report
+Presentation prepared in Tableau Public https://public.tableau.com/profile/svetlana.gruzdeva#!/vizhome/Happiness_Project_16057811399910/start<br/>
 
 ### Software used
 SQL database (MySQL)<br/>
-Jupyter Notebook
+Jupyter Notebook<br/>
+Tableau
 
 ### Programmic language
 Python 3.8.3
