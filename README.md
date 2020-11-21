@@ -34,6 +34,7 @@ Python 3.8.3
 - bs4
 - sklearn.linear_model
 - statsmodels.tsa.ar_model
+- statsmodels.tools.eval_measures
 - scipy import stats
 
 ### Sources
